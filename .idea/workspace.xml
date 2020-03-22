@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="501cc88d-f59d-464d-8519-b8bd9c0268b6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZUjzvF57mJ96ls4qIbN7BgeYAU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Kotlin.Euler0005Kt">
+    <configuration name="PrimesTest.primes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="EulerKotlin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ghm.euler.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ghm.euler" />
+      <option name="MAIN_CLASS_NAME" value="ghm.euler.PrimesTest" />
+      <option name="METHOD_NAME" value="primes" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Euler0002Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="EulerKotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ghm.euler0020.Euler0002Kt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Euler0003Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="EulerKotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ghm.euler0020.Euler0003Kt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Euler0004Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="EulerKotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ghm.euler0020.Euler0004Kt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Euler0005Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="EulerKotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ghm.euler0020.Euler0005Kt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.Euler0005Kt" />
+        <item itemvalue="Kotlin.Euler0003Kt" />
+        <item itemvalue="JUnit.PrimesTest.primes" />
+        <item itemvalue="Kotlin.Euler0004Kt" />
+        <item itemvalue="Kotlin.Euler0002Kt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="501cc88d-f59d-464d-8519-b8bd9c0268b6" name="Default Changelist" comment="" />
+      <created>1584900832554</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584900832554</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="92" y="92" width="1496" height="826" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1584901560781">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="92" y="92" width="1496" height="826" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1584901560781" />
+    <state width="1613" height="275" key="GridCell.Tab.0.bottom" timestamp="1584903634110">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1613" height="275" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1584903634110" />
+    <state width="1613" height="275" key="GridCell.Tab.0.center" timestamp="1584903634110">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1613" height="275" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1584903634110" />
+    <state width="1613" height="275" key="GridCell.Tab.0.left" timestamp="1584903634110">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1613" height="275" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1584903634110" />
+    <state width="1613" height="275" key="GridCell.Tab.0.right" timestamp="1584903634110">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1613" height="275" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1584903634110" />
+    <state x="386" y="243" key="com.intellij.ide.util.TipDialog" timestamp="1584900837796">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="386" y="243" key="com.intellij.ide.util.TipDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1584900837796" />
+    <state x="328" y="0" width="1009" height="1006" key="search.everywhere.popup" timestamp="1584901862237">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="328" y="0" width="1009" height="1006" key="search.everywhere.popup/0.0.1680.1010@0.0.1680.1010" timestamp="1584901862237" />
+  </component>
+</project>
