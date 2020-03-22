@@ -1,6 +1,6 @@
 package ghm.euler0020
 
-import ghm.euler.primes
+import ghm.euler.primesUpTo
 import ghm.euler.solve
 import kotlin.math.pow
 
@@ -8,7 +8,7 @@ fun main() {
 
     solve(232_792_560) {
         val max = 20
-        val primes = primes(max)
+        val primes = primesUpTo(max)
 
         fun primeFactors(n: Int): List<Int> {
             var remainder = n
