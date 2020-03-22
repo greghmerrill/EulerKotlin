@@ -32,7 +32,7 @@ fun main() {
         val digits = 13
         var answer = 0L
         for (i in 0..(number.length - digits)) {
-            val digitList  = number.substring(i, i + digits).map { Integer.parseInt(it.toString()) }
+            val digitList = number.substring(i, i + digits).map { Integer.parseInt(it.toString()) }
             answer = max(answer, digitList.fold(1L) { product, next -> product * next.toLong() })
         }
         answer

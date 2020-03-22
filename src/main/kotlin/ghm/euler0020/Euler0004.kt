@@ -6,7 +6,7 @@ import kotlin.math.max
 fun main() {
 
     solve(906_609) {
-        fun isPalindrome(i: Int) =  i.toString() == i.toString().reversed()
+        fun isPalindrome(i: Int) = i.toString() == i.toString().reversed()
 
         fun maxPalindromeProduct(a: Int, noLessThan: Int, b: Int = 999): Int {
             val product = a * b
